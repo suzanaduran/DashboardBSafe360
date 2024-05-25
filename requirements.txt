@@ -1,0 +1,8 @@
+# requirements.txt
+pg8000
+sqlalchemy
+pandas
+streamlit
+plotly
+ydata-profiling
+streamlit-pandas-profiling
